@@ -1,0 +1,51 @@
+.bordered {
+  border: solid;
+}
+#about {
+  background-color: #4f3d66;
+}
+#skills {
+  background-color: #15b3da;
+}
+.section {
+  padding-top: 20px;
+}
+/* Home Baru */
+/* ending home baru */
+.parallax-1 {
+  background-image: url("./image/Bg/theme\ web\ \ 1.jpg");
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax-2 {
+  background-image: url("./image/Bg/theme\ web\ \ 2.jpg");
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.parallax-3 {
+  background-image: url("./image/Bg/theme\ web\ \ 3.jpg");
+  height: 100%;
+  position: relative;
+  display: flex;
+  justify-content: center;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.footer1 {
+  background-color: #000898;
+}
